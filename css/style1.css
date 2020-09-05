@@ -1,0 +1,23 @@
+#box1{
+    background: #B1624EFF;
+    width:  500px;
+    height: 400px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    margin-top:40px;
+}
+
+#box2{
+    background: #5CC8D7FF;
+    width: 450px;
+    margin: auto;
+    padding: 10px;
+    height: 190px;
+    margin-top: 50px;
+   text-align: center;
+}
+
+#password{
+    margin-left: 3px;
+}
